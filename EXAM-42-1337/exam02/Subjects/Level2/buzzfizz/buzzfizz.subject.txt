@@ -1,5 +1,5 @@
-Assignment name  : fizzbuzz
-Expected files   : fizzbuzz.c
+Assignment name  : buzzfizz
+Expected files   : buzzfizz.c
 Allowed functions: write
 --------------------------------------------------------------------------------
 
