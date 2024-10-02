@@ -9,4 +9,4 @@
 
 ## Best of Luck!
 
-*By -- AKIRA* ~ adam zahraoui
+*By -- AKIRA ~ adam zahraoui*
