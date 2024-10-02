@@ -7,7 +7,7 @@
 ## Level 0
 | Names | Subject |
 | --- | --- |
-| only_z    | [only_z](./Subjects/Level0/aff_z.subject.txt)    |
+| only_z    | [only_z](./Subjects/Level0/aff_z/only_z.subject.txt)    |
 
 ## Level 1
 | Names | Subject |
