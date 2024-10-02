@@ -7,12 +7,12 @@
 ## Level 0
 | Names | Subject |
 | --- | --- |
-| only_z    | [only_z](./Subjects/Level0/only_z)    |
+| only_z    | [only_z](./Subjects/Level0/only_z.subject.txt)    |
 
 ## Level 1
 | Names | Subject |
 | --- | --- |
-| aff_a     | [aff_a](./Subjects/Level1/aff_a)     |
+| aff_a     | [aff_a](./Subjects/Level1/aff_a.subject.txt)     |
 
 ## Level 2
 | Names | Subject |
